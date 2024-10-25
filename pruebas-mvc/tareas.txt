@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tarea 1",
+    "descripcion": "Descripcion de tarea 1",
+    "completado": false
+  },
+  {
+    "id": 2,
+    "titulo": "Tarea 2",
+    "descripcion": "Descripcion de tarea 2",
+    "completado": true
+  },
+  {
+    "id": 3,
+    "titulo": "Tarea 3",
+    "descripcion": "Descripcion de tarea 3",
+    "completado": true
+  },
+  {
+    "id": "4",
+    "titulo": "Tarea 4",
+    "descripcion": "Descripción de tarea 4",
+    "completado": false
+  }
+]
