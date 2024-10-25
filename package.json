@@ -1,0 +1,14 @@
+{
+  "name": "practico04",
+  "version": "1.0.0",
+  "description": "Practico 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonella Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
